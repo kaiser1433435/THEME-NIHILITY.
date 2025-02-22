@@ -1,0 +1,37 @@
+{
+  "manifest": {
+    "author": "KAISER!",
+    "version": "0.0.1",
+    "name": "NIHILITY",
+    "transparency_mode": 3,
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/THEME-NIHILITY./refs/heads/main/NIHILITY%20(2).json"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1335775821499207815/1342737022640586792/Untitled509_20250222135622.png?ex=67bab8cd&is=67b9674d&hm=0ab7ab52f2935b730df9e6dca1fc7bf287ebb1c2daa150d6d042603c0d961a9b&",
+    "blur_radius": 0,
+    "overlay_alpha": 175,
+    "portain": {
+      "front": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      }
+    }
+  },
+  "simple_colors": {
+    "accent": -4190192,
+    "background": 410892,
+    "background_secondary": 532486,
+    "mention_highlight": 1728053247,
+    "active_channel": -4900551,
+    "statusbar": -16777216
+  },
+  "colors": {
+    "link": -1556930
+  },
+  "drawable_tints": {
+    "ic_status_idle_16dp": -1
+  }
+}
